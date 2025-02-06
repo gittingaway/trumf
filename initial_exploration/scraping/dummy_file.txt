@@ -1,0 +1,165 @@
+<a href="/cashback/trumfapollo" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="1,1 %" data-popularity="2133,00" data-name="Apollo">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/apollo_large_11102021.png" alt="Apollo" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    1,1 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/trumfapple-store" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="2,7 %" data-popularity="2008,00" data-name="Apple">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/apple_large_trumf.png" alt="Apple" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    2,7 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/christiania-glasmagasintrumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="7,8 %" data-popularity="1881,00" data-name="Christiania Glasmagasin">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/christiania_glasmagasin_large[1].png" alt="Christiania Glasmagasin" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    7,8 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/fredrik-and-louisa-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="2,3 %" data-popularity="1859,00" data-name="Fredrik &amp; Louisa">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/fredrik_new_logo_large_09082024.png" alt="Fredrik &amp; Louisa" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    2,3 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/tilbords-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="4,6 %" data-popularity="1820,00" data-name="Tilbords">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/tilbord_logo_29102018.png" alt="Tilbords" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    4,6 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/lensway-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="15,6 %" data-popularity="1809,00" data-name="Lensway">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/lensway_logo_198x75_26042022.png" alt="Lensway" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:14px;line-height:14px;">Opptil</span>            <div class="merchant-cashback">
+                    15,6 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/avis-trumf-1" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="6,2 %" data-popularity="1744,00" data-name="AVIS">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/avis_large_07032024.png" alt="AVIS" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    6,2 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/elektroimportoren-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="3,9 %" data-popularity="1654,00" data-name="Elektroimportoren">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/elektroimportoren2_logo_trumf.png" alt="Elektroimportoren" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    3,9 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/gina-tricot-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="4,6 %" data-popularity="1577,00" data-name="Gina Tricot">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/ginatricot_large_17102017.png" alt="Gina Tricot" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    4,6 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/vy-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="2,7 %" data-popularity="1549,00" data-name="VY Express">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/vybuss_logo_large_24012025.png" alt="VY Express" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    2,7 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/viaplay-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="290 kr" data-popularity="1511,00" data-name="Viaplay">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/viaplay_large_16072024.png" alt="Viaplay" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:14px;line-height:14px;">Opptil</span>            <div class="merchant-cashback">
+                    290 kr
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/vetzoo-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="4,6 %" data-popularity="1507,00" data-name="VetZoo">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/vetzoo_19062017[1].png" alt="VetZoo" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    4,6 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/bakeren-og-kokken-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="3,1 %" data-popularity="1493,00" data-name="Bakeren og Kokken">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/bakeren_kokken_large_16072024.png" alt="Bakeren og Kokken" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    3,1 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/nytelse-trumf" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="35,4 %" data-popularity="1476,00" data-name="Nytelse">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/nytelse_logo_large_21122020.png" alt="Nytelse" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:14px;line-height:14px;">Opptil</span>            <div class="merchant-cashback">
+                    35,4 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>
+<a href="/cashback/trumfsmiinto" class="col merchant-tile merchanttile d-flex flex-column align-items-center justify-content-center"  data-percentage="4,6 %" data-popularity="1447,00" data-name="miinto">
+    <img src="https://wlp.tcb-cdn.com/images/suppliers/large-logos/miinto_largel_logo_25102021.png" alt="miinto" class="merchant-image merchant-image-blendmode mx-auto">
+    <div class="merchantdesc pb-2 mb-2 font-weight-bold">
+        <div>
+<span style="font-size:0px;line-height:14px;">spacer</span>            <div class="merchant-cashback">
+                    4,6 %
+            </div>
+        </div>
+        <div class="merchant-description">Trumf-bonus</div>
+    </div>
+</a>

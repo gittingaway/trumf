@@ -1,0 +1,25 @@
+---
+const { ...rest } = Astro.props;
+---
+
+<article {...rest}>
+    <slot />
+</article>
+
+<style>
+    article {
+        -webkit-box-shadow: 5px 5px 22px 14px rgba(227, 227, 227, 0.52);
+        -moz-box-shadow: 5px 5px 22px 14px rgba(227, 227, 227, 0.52);
+        box-shadow: 5px 5px 22px 14px rgba(227, 227, 227, 0.52);
+
+        transition: all 0.2s ease;
+
+        padding: 1em;
+        border-radius: 15px;
+    }
+
+    article:hover {
+        scale: 1.025;
+        cursor: pointer;
+    }
+</style>
