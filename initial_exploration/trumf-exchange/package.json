@@ -13,6 +13,8 @@
     "@astrojs/react": "^4.2.0",
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.2.1",
+    "@supabase/supabase-js": "^2.48.1",
+    "@tanstack/react-table": "^8.20.6",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "astro": "^5.2.5",

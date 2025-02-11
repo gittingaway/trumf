@@ -1,0 +1,1698 @@
+{
+  "merchants": [
+    {
+      "name": "Acer",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/acer_logo_large_28102024.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/acer-trumf",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "Adidas",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/adidas_large_16072024.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/adidas-trumfs",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "Adlibris",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/adlibris_large_logo_20112024.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/adlibris",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "AEG",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/aeg_large_05052023.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/aeg-trumf",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "AIM'N",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/aimn_logo_28062019.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/aimn-trumf",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "Allente",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/allente_large_logo_03022022.png",
+      "cashback": "390 kr",
+      "cashback_path": "/cashback/allente-trumf",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "Apollo",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/apollo_large_11102021.png",
+      "cashback": "1,1 %",
+      "cashback_path": "/cashback/trumfapollo",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "Apple",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/apple_large_trumf.png",
+      "cashback": "2,7 %",
+      "cashback_path": "/cashback/trumfapple-store",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "ASICS",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/asics_large_logo_2_22022024.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/asics-trumf",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "ASICS Outlet",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/asics_outlet_large_logo_2_22022024.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/asics-outlet-trumf",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "Askeladden Navnelapper",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/askeladden-navnelapper.png",
+      "cashback": "9,3 %",
+      "cashback_path": "/cashback/askeladden-navnelapper",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "ASOS",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/asoslarge.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/trumfasos",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "Auto Europe no",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/autoeurope_large[1].png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/auto-europe-notrumf",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "AVIS",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/avis_large_07032024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/avis-trumf-1",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "babymarkt",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/babymarkt_large_logo_20112024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/babymarkt-trumf",
+      "created_at": "2025-02-10 23:03:28"
+    },
+    {
+      "name": "Babyshop",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/babyshop_large[1].png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/babyshop-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Babysjarm",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/babysjarm_large_logo_18092024.png",
+      "cashback": "15,6 %",
+      "cashback_path": "/cashback/babysjarm-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bad",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bad_logo_large_03022021.png",
+      "cashback": "2,7 %",
+      "cashback_path": "/cashback/bad-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "BagBrokers",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/badbrokers_logo_198x75_22042021.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/bagbrokers-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bakeren og Kokken",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bakeren_kokken_large_16072024.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/bakeren-og-kokken-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bangerhead",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bangerhead_logo_large_16122021.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/trumfbangerhead",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Barbershop",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/barber_logo_29102018.png",
+      "cashback": "1,9 %",
+      "cashback_path": "/cashback/barbershop-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Beauty Mall",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/beautymall_large_logo.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/beauty-mall",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Beckmann",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/beckmann_large.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/beckmann-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bedre Inneklima",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bedreinneklima_logo_large_27022024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/bedre-inneklima-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bemz",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bemz_trumf_logo_04072018.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/bemz-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Berg Watches",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/berg_logo_large_03112023.png",
+      "cashback": "9,5 %",
+      "cashback_path": "/cashback/berg-watches-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bildeler",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bildeler_large_16072024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/bildeler-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bilxtra",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bilxtra_logo_large_31012025.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/bilxtra-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bj\u00f6rn Borg",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bjornborg_trumf_large.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/trumfbj%C3%B6rn-borg",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bladkongen",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bladkongen_large_09022024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/trumfbladkongen",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "BliVakker",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/blivakker_large_14052024.png",
+      "cashback": "4 %",
+      "cashback_path": "/cashback/blivakker-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "blush",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/blush_large_16072024.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/blush-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bodystore",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bodystore_large_logo.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/bodystore-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Brando",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/brando_large_logo_08032023.png",
+      "cashback": "8,1 %",
+      "cashback_path": "/cashback/brando-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Brewshop",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/brewshop_large_26032024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/brewshop-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Brilleland",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/brilleland_logo_large_14102021.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/brilleland-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Bubbleroom",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/bubbleroom_logo_large_21042022.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/trumfbubbleroom",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Budget",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/budget_large_logo_07032024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/budget-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Cabin Campers",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/cabincampers_logo_large_01022021.png",
+      "cashback": "4 %",
+      "cashback_path": "/cashback/cabin-campers-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Campanyon",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/campanyon_large_small.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/campanyon-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Care of Carl",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/care_carl_logo_24102018.png",
+      "cashback": "12 %",
+      "cashback_path": "/cashback/care-of-carl-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Chillout",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/chillout_viatrumf_10102018.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/chillout-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Christiania Glasmagasin",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/christiania_glasmagasin_large[1].png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/christiania-glasmagasintrumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Citybox",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/citybox_logo_large_14022024.png",
+      "cashback": "8,1 %",
+      "cashback_path": "/cashback/citybox-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "ComputerSalg",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/computersalg_logo_large_08092020.png",
+      "cashback": "1,5 %",
+      "cashback_path": "/cashback/computersalg",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "COS",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/cos_large_logo_08092022.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/cos-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Coverbrands",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/new_coverbands_logo_25102019.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/coverbrands-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Daniel Wellington",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/daniel_w_logo_198x75_24112021.png",
+      "cashback": "12,4 %",
+      "cashback_path": "/cashback/daniel-wellington-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "dekkonline.com",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/dekkonline_large_trumf.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/trumfdekkonline",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Devold",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/devold_logo_198x75_12112020rename.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/devold-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "DFDS",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/dfds_logo_l.png",
+      "cashback": "6,6 %",
+      "cashback_path": "/cashback/dfds-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Direct Ferries",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/directferries_large_logo_13012025.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/direct-ferries-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Disney+",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/disneynewlarge0903.png",
+      "cashback": "110 kr",
+      "cashback_path": "/cashback/disney-trumfa",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Dustin Home",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/dustin_logo_198x75_26042022.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/dustin-home-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Dyrekassen",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/dyrekassen_logo_25032020.png",
+      "cashback": "9,3 %",
+      "cashback_path": "/cashback/dyrekassen-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Dyson",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/dyson_large_26092022.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/dyson-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "eBay",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/ebay-l.png",
+      "cashback": "1 %",
+      "cashback_path": "/cashback/ebay-trumfno",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Ekstralys",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/ekstrals_logo_new_large.png",
+      "cashback": "7 %",
+      "cashback_path": "/cashback/trumfekstralys",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Electrolux",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/electrolux_large_05052023.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/electrolux-trumf",
+      "created_at": "2025-02-10 23:03:29"
+    },
+    {
+      "name": "Elektroimportoren",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/elektroimportoren2_logo_trumf.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/elektroimportoren-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Elite Hotels of Sweden",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/elitehotels_large_logo_14022024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/elite-hotels-of-sweden-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Ellos NO",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/ellos_lg.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/ellos",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Emirates",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/emirates_logo_new_large.png",
+      "cashback": "0,9 %",
+      "cashback_path": "/cashback/emirates-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "EMP",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/emp.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/emp-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "eStore",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/estore_large_logo_27032024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/estore-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Estrid",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/estrid_large_logo_19042023.png",
+      "cashback": "50 kr",
+      "cashback_path": "/cashback/estrid-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Etihad Airways",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/etihadlrg.png",
+      "cashback": "1,5 %",
+      "cashback_path": "/cashback/etihad-airways-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Eurodel",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/eurodel_large_16072024.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/eurodel-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Evenstad Musikk",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/evenstadmusikk_large_logo_11092024.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/evenstad-musikk-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Evoride",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/evoride_large_logo_12062024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/evoride-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Expedia",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/expedia-may-23-l.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/trumfexpedia-eu",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Extreme Fitness",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/exetreme_logo_large_27022024.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/extreme-fitness-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Fabel",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/fabel_logo_03052019.png",
+      "cashback": "35 kr",
+      "cashback_path": "/cashback/fabel-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Familiebutikken",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/familiebutikken_logo_l.png",
+      "cashback": "8,1 %",
+      "cashback_path": "/cashback/familiebutikken",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Farfetch",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/farfetch_logo_10092020.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/farfetch-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Fjord Line",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/fjordline_large_16072024.png",
+      "cashback": "10 %",
+      "cashback_path": "/cashback/fjord-line-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Flixbus",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/flixbus_logo_28082018.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/flixbus-trumf2",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Foodstuff",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/foodstuff_logo_198x75.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/foodstuff-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Foss Sport",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/fosssport_large_31102022.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/foss-sport-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Framsport",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/framsport_logo_large_30102024.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/framsport-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Fredrik & Louisa",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/fredrik_new_logo_large_09082024.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/fredrik-and-louisa-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Fruugo",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/fruugo_logo_big_16022021.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/fruugo-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Fyri Resort",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/fyri_logo_large.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/fyri-resort-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Fyrkl\u00f6vern",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/fyrklovern_logo_large_23092024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/fyrklovern-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Gaminghuset",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/gaminghuset_logo2_large_16022024.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/gaminghuset",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Geggamoja",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/geggamoja_large_logo_12042024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/geggamoja-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "GetYourGuide",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/getyourguide_large_16042024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/getyourguide-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Gina Tricot",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/ginatricot_large_17102017.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/gina-tricot-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Go City",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/gocity-lrg.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/go-city-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Goboken",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/goboken_large_26092022.png",
+      "cashback": "90 kr",
+      "cashback_path": "/cashback/goboken-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Golfsenteret",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/golfsenteret_logo_large_27022024.png",
+      "cashback": "4,3 %",
+      "cashback_path": "/cashback/golfsenteret-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Gr\u00f8nt Fokus",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/grontfokus_logo_large_05072024.png",
+      "cashback": "1,5 %",
+      "cashback_path": "/cashback/gront-fokus-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "G-Star",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/large_logo_gstar.png",
+      "cashback": "9,3 %",
+      "cashback_path": "/cashback/g-star-raw-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Gullfunn",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/gullfunn_logo_large_24042023.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/gullfunn-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Guttelus",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/guttelus_large_16062023.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/guttelus-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Gymgrossisten",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/gymgrossisten_large_black.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/trumfgymgrossisten",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "H&M",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/handm_logo_trumf_30112018.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/h-and-m-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Hagl\u00f6fs",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/large_logo_haglofs_09122020.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/haglofs-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Helly Hansen",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/helyhanson_logo_198x75.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/helly-hansen-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "homeroom",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/homeroom_logo_21122018.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/homeroom-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Home-tex",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/home-tex_large_16012024.png",
+      "cashback": "7 %",
+      "cashback_path": "/cashback/home-tex-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Hotels.com",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/hotels.comlarge.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/trumfhotels-no",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Hudprodukter",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/hudprodukter_large_logo.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/hudprodukter",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Hult\u00e9ns",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/hultens_large_logo_05032024.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/hultens-trumf",
+      "created_at": "2025-02-10 23:03:30"
+    },
+    {
+      "name": "Hunkemoller",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/hunkemoller_large_logo_24012023.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/hunkemoller-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Hyttefeber",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/hyttefeber_logo_198x75_09092020.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/hyttefeber-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "H\u00f8ie",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/hoie_large_11052023.png",
+      "cashback": "8,1 %",
+      "cashback_path": "/cashback/hoie-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "I Love Dogs",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/ilovedogs[1].png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/i-love-dogs-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Iberostar Hotels and Resorts",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/iberostar_logo_large_25052023.png",
+      "cashback": "4,5 %",
+      "cashback_path": "/cashback/iberostar-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Ideal of Sweden",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/ideal_of_sweden_logo_large.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/ideal-of-sweden-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "iMusic",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/music_logo_11072024.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/imusic-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "inkClub.com",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/inkclub_logo_large.png",
+      "cashback": "11,7 %",
+      "cashback_path": "/cashback/trumfinkclub-no",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Inkmann",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/inkmann_logo_trumf_17012018.png",
+      "cashback": "9,3 %",
+      "cashback_path": "/cashback/inkmann-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Interhome",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/interhome_logo_large[1].png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/interhome-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Interoptik",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/interoptik_large_logo_08092022.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/interoptik-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Inzpero",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/inzpero_large_logo_24042024.png",
+      "cashback": "9,3 %",
+      "cashback_path": "/cashback/inzpero-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Jakt og Friluft",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/jaktandfriluft_logo_198x75_20092021.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/jakt-og-friluft",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Jotex",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/jotex_logo_l_06062017[1].png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/jotex-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Kajakk og Fritid",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kajakk_logo_large_198x75_24112021.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/kajakk-og-fritid-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Karma",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/karma_large_logo_23052024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/karma-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Kayani",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kayani_large_18032024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/kayani-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "kinogavekort",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/filmwebkinogavekort_logo_10112021.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/kinogavekort-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Kinoklubben",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kinoklubb_logo_15112017.png",
+      "cashback": "35 kr",
+      "cashback_path": "/cashback/kinoklubben-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "KitchenTime",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kitchentime_logo_trumf_03052018.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/kitchentimetrumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Kitchn",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kitchn_large_logo_08092022.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/kitchn-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Klokkegiganten",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/klokkegiganten_large_logo_23052024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/klokkegiganten-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Komplett",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kompett_logo_large_27062022.png",
+      "cashback": "1,5 %",
+      "cashback_path": "/cashback/komplett-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Kondomeriet",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kondomeriet_logo_04072018.png",
+      "cashback": "11,7 %",
+      "cashback_path": "/cashback/kondomeriet-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Kost1",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kost1_logo_l.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/kost1-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Kouture",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kouture_logo_large_05042024.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/kouture-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Kvalitetstid",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/kvalitetstid_large_logo_19062024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/kvalitetstid-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "K\u00e4rcher",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/karcher_large_logo_18042024.png",
+      "cashback": "8,5 %",
+      "cashback_path": "/cashback/karcher-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Lampegiganten",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lampegigenten_logo_l.png",
+      "cashback": "9,3 %",
+      "cashback_path": "/cashback/trumflampegiganten",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Lampemesteren",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lampe_mesteren[1].png",
+      "cashback": "3,2 %",
+      "cashback_path": "/cashback/lampemesteren-trumf",
+      "created_at": "2025-02-10 23:03:31"
+    },
+    {
+      "name": "Lappeliten",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lappeliten_large_17102017.png",
+      "cashback": "12,4 %",
+      "cashback_path": "/cashback/lappeliten-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "LEGO",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lego_logo_06092019.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/lego-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Lekmer",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lekmer_logo_trumf_new.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/trumflekmer",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Lenovo",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lenovo_large_16022023.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/lenovo-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "LensOn",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lenson_logo_l[1].png",
+      "cashback": "3,5 %",
+      "cashback_path": "/cashback/lenson-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Lensway",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lensway_logo_198x75_26042022.png",
+      "cashback": "15,6 %",
+      "cashback_path": "/cashback/lensway-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Lexington",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lexingon_large_27042023.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/lexington",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Life",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/life_large_logo_trumf_17102019.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/life-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Lightup",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lightup_logo_large_17012024.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/lightup-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Lindex",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lindex_large_logo.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/lindex-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "L'Occitane",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/loctan_large.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/loccitane-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Lufthansa",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lufthansa_large_logo_12122024.png",
+      "cashback": "1,1 %",
+      "cashback_path": "/cashback/lufthansa-trumf1",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Lunehjem",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lunehjem_19062017[1].png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/lunehjem-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "LYKO",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/lyko_logo_trumf_16012018.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/lyko-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "L\u00f8peshop",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/loepeshop_large_18032024.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/lopeshop-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Magasinet",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/magasinet_logo_05102017.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/magasinet-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Maxmaling",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/maxmailing_logo_large_29060222.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/maxmaling-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "miinto",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/miinto_largel_logo_25102021.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/trumfsmiinto",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Milrab",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/milrab_logo_01102021.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/milrabtrumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "mimmis",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/mimmis_trumf_large[1].png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/mimmistrumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "MiniFinder",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/minifinder_large_logo_29042024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/minifinder-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Mister Spex",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/mister_spex_l[1].png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/misterspex-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Monki",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/monki_large_logo_19022024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/monki-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Myprotein",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/myprotein_big[1].png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/myprotein-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Nelly",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/nelly_logo_new_small.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/trumfnelly-no",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Netthandelen",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/netthandelen_logo_198x75_23092020.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/netthandelen-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Newport Home",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/newport_logo_large_06052022.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/newport-home-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Nextory",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/nextory_large_logo_13042023.png",
+      "cashback": "35 kr",
+      "cashback_path": "/cashback/nextory-trumfs",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "NIKE",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/nikenew_lg[1].png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/nike-no",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "NLY MAN",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/nly_man_logo_l.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/trumfnly-man",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Nordic Nest",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/nordicnest_logo_large_15062023.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/nordic-nest-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Nordic Print",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/nordicprint_logo_trumf_19092018.png",
+      "cashback": "15,6 %",
+      "cashback_path": "/cashback/nordic-print-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "NordicFeel",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/nordicfeel_logo_23102018.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/trumfnordic-feel",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "NOR-WAY Bussekspress",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/norway_logo_24022020.png",
+      "cashback": "2,8 %",
+      "cashback_path": "/cashback/nor-way-bussekspress-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Nytelse",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/nytelse_logo_large_21122020.png",
+      "cashback": "35,4 %",
+      "cashback_path": "/cashback/nytelse-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "N\u00f8stebarn",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/nostebarn_large_26032024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/nostebarn-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Oakley",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/oakley_logo_09112017.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/oakley-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "OBH Nordica",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/obh_nordica_large_27062024.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/obh-nordica-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Omio",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/omio_logo_trumf_250252019.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/omio-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Oslo Skin Lab",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/olsoskinlab_large_logo.png",
+      "cashback": "155 kr",
+      "cashback_path": "/cashback/oslo-skin-lab",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Petster",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/petster_logo_large_120102020.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/petster-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "PetXL",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/petxl_large_logo_12062024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/petxl-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Platekompaniet",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/platekompaniet_logo_large_17052024.png",
+      "cashback": "3,8 %",
+      "cashback_path": "/cashback/platekompaniet-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Plukkselv",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/plukkselv_large_26032024.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/plukkselv-trumf",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Polarn O. Pyret",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/polarn_trumf_large.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/trumfpolarn-o-pyretno",
+      "created_at": "2025-02-10 23:03:32"
+    },
+    {
+      "name": "Premiumtek",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/premiumtek_large_logo_23052024.png",
+      "cashback": "9,9 %",
+      "cashback_path": "/cashback/premiumtek-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Proshop",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/proshop_large_17102017.png",
+      "cashback": "3,7 %",
+      "cashback_path": "/cashback/proshop-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Proteinfabrikken",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/proteinfabrikken_logo_l.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/trumfproteinfabrikken",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Puma",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/puma_large_22062023.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/puma-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Qatar Airways",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/qatar_logo_new_large.png",
+      "cashback": "1,5 %",
+      "cashback_path": "/cashback/qatar-airways-notrumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Racketspesialisten",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/racketspesisten_logo_small_198x75_09092021.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/racketspesialisten",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Radisson Hotels",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/rh_radisson_31072019.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/trumfradissonhotels",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Reebok",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/reebok_logo_trumf_06112019.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/reebok-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Reforma",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/reforma_large_logo_30042024.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/reforma-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Rentalcars",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/rentalcars_logo_trumf_17052018.png",
+      "cashback": "7 %",
+      "cashback_path": "/cashback/rentalcars-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Risskov Bilferie",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/risskov_large.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/risskov-bilferietrumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Rolfs Reiser",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/rolfsreiser_large_logo_21012025.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/rolfs-reiser-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "RoyalDesign",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/royaldesign_logo_l.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/trumfroyaldesign",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Rum21",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/rum21_logo_15042019.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/trumfrum21",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "SACKit",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/sackit_logo_largel_29062022.png",
+      "cashback": "9,3 %",
+      "cashback_path": "/cashback/sackit-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Samsung",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/samsung_large_26032024.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/samsung-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Scandic Hotels",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/sandic_logo_new_19112024.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/scandic-hotels-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Shaping New Tomorrow",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/shapingnewtomorrow_large_logo_04042024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/shaping-new-tomorrow-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "SillySanta",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/sillysanta_large_logo_01112022.png",
+      "cashback": "9,3 %",
+      "cashback_path": "/cashback/sillysanta-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "SkinSecret",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/skinsecret_large_16042024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/skinsecret-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Skistart",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/ski_start_large.png",
+      "cashback": "2,7 %",
+      "cashback_path": "/cashback/skistarttrumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Skogstad Sport",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/skogstag_logo_trumf_08032018.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/skogstad-sport-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Skomani",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/mani_logo[1].png",
+      "cashback": "8,1 %",
+      "cashback_path": "/cashback/skomani-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Skruvat",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/skruvat_logo_198x75.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/trumfskruvat",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "SkyShowtime",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/skyshowtime_large_logo.png",
+      "cashback": "130 kr",
+      "cashback_path": "/cashback/skyshowtime-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "SmartaSaker",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/smartaker_large_08062023.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/smartasaker-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Smartphoto",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/smartphoto-l[1].png",
+      "cashback": "9,3 %",
+      "cashback_path": "/cashback/smartphoto-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Sparmax",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/sparmax_large_logo_15052024.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/sparmax",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Sportmann",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/sportmann_large_logo_23052024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/sportmann-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Staypro",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/staypro_large_26052020.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/staypro-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "STIGA Sports",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/tiga_logo_large_16012024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/stiga-sports-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Stormberg",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/stotmberg_logo_trumf_17012019.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/stormberg-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Storytel",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/storytel_logo_trumf_08022018.png",
+      "cashback": "35 kr",
+      "cashback_path": "/cashback/storytel-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Strawberry",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/strawberry_large_16072024.png",
+      "cashback": "7 %",
+      "cashback_path": "/cashback/strawberry-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Strikkia",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/strikka_large_10052023.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/strikkia-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Strim",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/strim_large_logo_07052021.png",
+      "cashback": "270 kr",
+      "cashback_path": "/cashback/strim-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Superdry",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/superdry_large2.png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/trumfsuperdry-no",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Superkul",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/superkul_trumf_large.png",
+      "cashback": "5,4 %",
+      "cashback_path": "/cashback/trumfsuperkul",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "SWIMS",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/swims_logo_large_19112024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/swims-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Ticketmaster",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/ticketmaster_large_logo_29062023.png",
+      "cashback": "0,7 %",
+      "cashback_path": "/cashback/ticketmaster-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Tilbords",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/tilbord_logo_29102018.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/tilbords-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Timarco",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/timarco_large[1].png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/timarcotrumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Treningspartner",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/trendings_large_logo_27062024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/trumftreningspartner",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Trip",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/tripcom-large1.png",
+      "cashback": "4,2 %",
+      "cashback_path": "/cashback/trip-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "TripX",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/tripx_logo_trumf_29082018.png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/tripx-trumf",
+      "created_at": "2025-02-10 23:03:33"
+    },
+    {
+      "name": "Urverket",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/urverket_logo_trumf_08062018.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/urverket-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "VetZoo",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/vetzoo_19062017[1].png",
+      "cashback": "4,6 %",
+      "cashback_path": "/cashback/vetzoo-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "Viaplay",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/viaplay_large_16072024.png",
+      "cashback": "290 kr",
+      "cashback_path": "/cashback/viaplay-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "Viator",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/viator_logo_viatrumf_07112019.png",
+      "cashback": "3,1 %",
+      "cashback_path": "/cashback/viator-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "VidaXL",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/vida_xl_logo_l[1].png",
+      "cashback": "3,9 %",
+      "cashback_path": "/cashback/vidaxl-trumf2",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "Viking Footwear",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/vikingfootwear_logo_196x75_07092021.png",
+      "cashback": "5,8 %",
+      "cashback_path": "/cashback/viking-footwear",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "Vistaprint",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/vistaprint_logo_trumf_l.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/trumfvistaprint",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "Vita",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/vita_logo_large.png",
+      "cashback": "4 %",
+      "cashback_path": "/cashback/trumfvita",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "VitaminX",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/vitaminx_logo_large_17012024.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/vitaminx-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "VPG",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/verticalplayground_large_small_06032024.png",
+      "cashback": "7,8 %",
+      "cashback_path": "/cashback/vpg-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "Vrbo",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/vrbo_logo_mmp_12022020.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/vrbo-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "VY Express",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/vybuss_logo_large_24012025.png",
+      "cashback": "2,7 %",
+      "cashback_path": "/cashback/vy-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "Xplora",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/xplora_logo_large_23082023.png",
+      "cashback": "195 kr",
+      "cashback_path": "/cashback/xplora-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "YourSurprise",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/yoursup_large_logo_07062023.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/yoursurprise-trumf",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "YouWish",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/youwish_logo_04122018.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/youwish",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "ZOO",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/zoo_large_logo_20032023.png",
+      "cashback": "6,2 %",
+      "cashback_path": "/cashback/zoo-trumfs",
+      "created_at": "2025-02-10 23:03:34"
+    },
+    {
+      "name": "Zooplus",
+      "image_url": "https://wlp.tcb-cdn.com/images/suppliers/large-logos/zooplus_logo_09102018.png",
+      "cashback": "2,3 %",
+      "cashback_path": "/cashback/zooplus",
+      "created_at": "2025-02-10 23:03:34"
+    }
+  ]
+}

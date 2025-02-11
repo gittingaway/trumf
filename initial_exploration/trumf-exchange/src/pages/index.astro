@@ -2,32 +2,44 @@
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header/Header.tsx";
 import Footer from "../components/Footer.astro";
-import Card from "../components/Card.astro";
 import SegmentedControl from "../components/SegmentedControl/SegmentedControl";
+import MerchantTable from "../components/MerchantTable/MerchantTable";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
-const offers = [
-    {
-        name: "YouWish",
-        image_url:
-            "https://wlp.tcb-cdn.com/images/suppliers/large-logos/youwish_logo_04122018.png",
-        cashback: "9,3 %",
-        cashback_path: "/cashback/youwish",
-    },
-    {
-        name: "ZOO",
-        image_url:
-            "https://wlp.tcb-cdn.com/images/suppliers/large-logos/zoo_large_logo_20032023.png",
-        cashback: "6,2 %",
-        cashback_path: "/cashback/zoo-trumfs",
-    },
-    {
-        name: "Zooplus",
-        image_url:
-            "https://wlp.tcb-cdn.com/images/suppliers/large-logos/zooplus_logo_09102018.png",
-        cashback: "2,3 %",
-        cashback_path: "/cashback/zooplus",
-    },
-];
+import { createClient } from "@supabase/supabase-js";
+import { getImage } from "astro:assets";
+// Create a server-side Supabase client
+const supabase = createClient(
+    import.meta.env.SUPABASE_URL,
+    import.meta.env.SUPABASE_SERVICE_KEY,
+);
+
+// Fetch data at build time
+const { data: merchants, error } = await supabase.from("merchants").select("*");
+if (error) console.error("Error fetching users:", error.message);
+/*
+merchants.forEach(async (merchant) => {
+    merchant.image_url = merchant.image_url.replace(
+        "https://wlp.tcb-cdn.com/images/suppliers/large-logos/",
+        "/images/logos/",
+    );
+    merchant.image_url = merchant.image_url.replace(".png", ".webp");
+});
+*/
+
+console.log(merchants);
+
+// Get the top 3 merchants
+function compare(a, b) {
+    if (a.cashback < b.cashback) {
+        return 1;
+    }
+    if (a.cashback > b.cashback) {
+        return -1;
+    }
+    return 0;
+}
+
+const top3 = merchants.sort(compare).slice(0, 3);
 ---
 
 <!doctype html>
@@ -39,21 +51,8 @@ const offers = [
         <Header client:load />
         <main>
             <section>
-                <h3>Dagens bevegelser</h3>
-                <div class="todays">
-                    {
-                        offers.map((offer) => (
-                            <Card class="card">
-                                <img src={offer.image_url} alt={offer.name} />
-                                <h4>{offer.name}</h4>
-                                <p>{offer.cashback}</p>
-                            </Card>
-                        ))
-                    }
-                </div>
-            </section>
-            <section>
                 <SegmentedControl options={["Prosent", "Kroner"]} client:load />
+                <MerchantTable merchants={top3} client:load />
             </section>
         </main>
         <Footer />
@@ -69,13 +68,17 @@ const offers = [
         padding: 1em;
         display: flex;
         gap: 1em;
+        flex-wrap: wrap;
     }
 
     .card {
         text-align: center;
+        padding: 0 1em;
+        min-width: 150px;
     }
 
     img {
         mix-blend-mode: multiply;
+        max-width: 100px;
     }
 </style>

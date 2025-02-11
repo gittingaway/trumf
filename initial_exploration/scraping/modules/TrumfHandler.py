@@ -1,3 +1,6 @@
+import json
+from datetime import datetime
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -31,6 +34,7 @@ def get_deals(hits: int, page: int, category: str = "name"):
 def extract_merchant_data(html):
     soup = BeautifulSoup(html, "html.parser")
     merchants = []
+    created_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     for merchant_tile in soup.find_all("a", class_="merchant-tile"):
         merchant = {
@@ -42,6 +46,7 @@ def extract_merchant_data(html):
             ),
             "cashback": merchant_tile.get("data-percentage"),
             "cashback_path": merchant_tile.get("href"),
+            "created_at": created_at,
         }
         merchants.append(merchant)
 
@@ -57,7 +62,8 @@ def main():
             break
         merchants += extract_merchant_data(deals)
         index += 1
-    print(merchants)
+    # format the data to be json
+    print(json.dumps(merchants, indent=2))
 
 
 if __name__ == "__main__":

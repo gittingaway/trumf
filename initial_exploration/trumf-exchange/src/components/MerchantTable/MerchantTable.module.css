@@ -1,0 +1,31 @@
+.merchantName {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.merchantName img {
+  width: 75px;
+  margin-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.cashback {
+  display: flex;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tableRow {
+  border-bottom: 1px solid #e0e0e0;
+  padding: 10px;
+}
